@@ -1,0 +1,2 @@
+A Car Garage Website is a static, responsive platform built with core web development technologies like HTML5, CSS3 and JavaScript. The website utilizes libraries like Owl Carousel for smooth image transitions and AOS (Animate On Scroll) for engaging animations, offering a seamless and visually appealing experience across all devices.
+Visit Project : https://manojpatil10.github.io/exhaust-car-garage-/
